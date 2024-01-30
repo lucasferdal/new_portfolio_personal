@@ -17,4 +17,4 @@ const Card = ({image, title, text, badge}) => {
   )
 }
 
-export default Card
+export default Card;
